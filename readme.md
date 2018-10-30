@@ -20,6 +20,7 @@
 -   [Python Basics](https://anh.cs.luc.edu/331/notes/PythonBasics.pdf)
 -   [Real Python](https://realpython.com/)
 -   [A Real Python](https://media1.tenor.com/images/3fe51571ba1477be4d28db4fbb5a0c05/tenor.gif?itemid=6199080)
+-   [Learn Python](https://www.learnpython.org/)
 
 ### HTML & CSS
 -   [HTML & CSS Tutorials](https://www.w3schools.com/html/default.asp)
@@ -27,6 +28,5 @@
 ## Chrome Extensions
 - [Chrome Extension Getting Started Guide](https://developer.chrome.com/extensions/getstarted)
 
-### Other
--   [Intern Supply](https://intern.supply/)
+
 
